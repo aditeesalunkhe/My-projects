@@ -1,0 +1,36 @@
+#apps{
+background-color: bisque;
+height: 800px;
+width: 100%;
+}
+
+.line{
+height: 6px;
+background-color: black;
+width: 70px;
+margin: 8px auto;
+}
+
+#anime{
+background-color:cadetblue;
+height: 800px;
+width: 100%;
+}
+
+img{
+    transition: transform .2s;
+}
+
+img:hover{
+    transform: scale(0.9);
+}
+
+#bot{
+background-color:aqua ;
+height: 800px;
+width: 100%;
+}
+
+body{
+text-align: center;    
+}
